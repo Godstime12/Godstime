@@ -29,8 +29,8 @@ When I'm not working with data, I enjoy football. I love the "aha!" moment when 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [SQL.]
+- [Tableau.]
 
 ## 🛠️ Technical Skillset
 
